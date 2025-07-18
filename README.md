@@ -1,3 +1,9 @@
+# Source
+
+This repository is created from https://github.com/demergent-labs/azle/tree/main/examples/stable/demo/llm azle official examples
+
+___
+
 Inspired by this repo: https://github.com/dfinity/llm/tree/main/examples/quickstart-agent-rust
 
 The tests are currently designed to run only locally (not on GitHub Actions). You must install `ollama` to run these tests locally.
